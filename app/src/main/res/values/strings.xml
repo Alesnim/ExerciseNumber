@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">ExerciseNumber</string>
+    <string name="text_header">Угадай число!</string>
+</resources>
